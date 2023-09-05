@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I am Zenyph.</h1>
-<h3 align="center">Video-maker (but programmer in my spare time.)</h3>
+<h1 align="center">Zenyph</h1>
+<h3 align="center">Video-maker (but programmer in my spare time)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenyph&label=Profile%20views&color=0e75b6&style=flat" alt="Zenyph" /> </p>
 
