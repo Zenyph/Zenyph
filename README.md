@@ -6,7 +6,7 @@
 <h3 align="left">Social media:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@multizen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Multiverse & Zenyph" height="30" width="40" /></a>
-<a href="https://discord.gg/NvMqQNcQnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NvMqQNcQnR" height="30" width="40" /></a>
+<a href="https://discord.gg/R9QptrJR7e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NvMqQNcQnR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming languages:</h3>
