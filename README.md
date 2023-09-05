@@ -1,12 +1,12 @@
-<h1 align="center">Hey there, I am Zenyph.</h1>
-<h3 align="center">Video-maker (but programmer in my spare time.)</h3>
+<h1 align="center">Zenyph</h1>
+<h3 align="center">Video-maker (but programmer in my spare time)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenyph&label=Profile%20views&color=0e75b6&style=flat" alt="zenyph" /> </p>
 <img align="right" alt="Zenyph" width="400" src="https://i.gifer.com/o3F.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/multiverse & zenyph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="multiverse & zenyph" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@multizen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="multiverse & zenyph" height="30" width="40" /></a>
 <a href="https://discord.gg/NvMqQNcQnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NvMqQNcQnR" height="30" width="40" /></a>
 </p>
 
